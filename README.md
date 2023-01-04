@@ -8,4 +8,4 @@ I used Adobe Photoshop to create an original movie poster for the 2005 film <i>F
 - Adobe Photoshop
 
 ## Movie Poster
-<img src="https://gitlab.com/junmian/movie-poster/-/raw/main/ff7-movie-poster.jpg" width="297" height="459" alt="FF7 Movie Poster" title="FF7 Movie Poster">
+<img src="https://github.com/junmian/movie-poster/blob/main/ff7-movie-poster.jpg" width="297" height="459" alt="FF7 Movie Poster" title="FF7 Movie Poster">
